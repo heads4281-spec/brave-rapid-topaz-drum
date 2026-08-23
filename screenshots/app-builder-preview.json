@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "CRIMSON SOVEREIGN",
+      "hasCanvas": false,
+      "bodyTextLen": 507,
+      "bodyTextHash": "47ce3c798de3cf78dc5b3ce49417669134cd9a318719cea5949f62e0296b429a",
+      "bodyTextPrefix": "TYPE VII MYTHIC SHOOTER · GALACTIC CYCLE CRIMSON SOVEREIGN You w",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "CRIMSON SOVEREIGN",
+      "hasCanvas": false,
+      "bodyTextLen": 488,
+      "bodyTextHash": "9f2e44e71c63f15a123c1a18877e937e6935f5295df4b82d31c70662d4961f3a",
+      "bodyTextPrefix": "TYPE VII MYTHIC SHOOTER · GALACTIC CYCLE CRIMSON SOVEREIGN You w",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

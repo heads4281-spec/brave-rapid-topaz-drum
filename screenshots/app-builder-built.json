@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "CRIMSON SOVEREIGN",
+      "hasCanvas": false,
+      "bodyTextLen": 21,
+      "bodyTextHash": "e0b150e6694960bdcc49c5ef3ccc486b94a14b01836263480072405be4916921",
+      "bodyTextPrefix": "LOADING THE PALACE 5%",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "CRIMSON SOVEREIGN",
+      "hasCanvas": false,
+      "bodyTextLen": 21,
+      "bodyTextHash": "565d8e471f1c88f9b0766ca69d5ccd1f3e95d36446bccffeeda6f14e31ec9502",
+      "bodyTextPrefix": "LOADING THE PALACE 0%",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text collapsed (507 -> 21 chars)",
+    "mobile: body text collapsed (488 -> 21 chars)"
+  ]
+}
